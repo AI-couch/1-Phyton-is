@@ -1,8 +1,9 @@
 ---
 ---
+<div align="center">
 # Что умеет Python
+</div>
 
----
 ---
 
 ![Телеграм-боты на Python](images/1Bot.png)
