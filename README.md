@@ -1,8 +1,6 @@
 ---
 ---
-<div align="center">
 # Что умеет Python
-</div>
 
 ---
 
